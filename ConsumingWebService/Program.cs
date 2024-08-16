@@ -8,7 +8,7 @@ namespace ConsumingWebService
         {
 
             const string BaseUrl = "https://api.openweathermap.org/data/2.5/weather";
-            const string ApiKey = "5698ad3d8b13f8f91ebdabbf7ed1fba0";
+            const string ApiKey = "<YOUR API KEY HERE>";
 
 
             Console.WriteLine("WEATHER SERVICE");
